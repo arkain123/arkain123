@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PONIES
 - 💞️ I’m looking to collaborate on PONIES
 - 📫 Gona reach ponies
-- 18 y.o. btw
+- 19 y.o. btw
 
 <!---
 arkain123/arkain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
