@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @arkain123
-- 👀 I’m interested in PONIES
-- 🌱 I’m currently learning PONIES
-- 💞️ I’m looking to collaborate on PONIES
+- 👋 Hi, I’m @arkain123, 19 y.o., BNTU student (3-rd year)
+- 👀 I’m interested in Bash, Networking, Godot development, C# Backend.
+- 🌱 I’m currently learning Neural Networks, Godot.
+- 💞️ I’m looking to collaborate on game projects
 - 📫 Gona reach ponies
-- 19 y.o. btw
+- Currently working on course work
 
 <!---
 arkain123/arkain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
