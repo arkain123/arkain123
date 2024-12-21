@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Neural Networks, Godot.
 - 💞️ I’m looking to collaborate on game projects
 - 📫 Gona reach ponies
-- Currently working on course work
 
 <!---
 arkain123/arkain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
