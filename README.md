@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arkain123, 19 y.o., BNTU student (3-rd year)
-- 👀 I’m interested in Bash, Networking, Godot development, C# Backend.
+- 👋 Hi, I’m @arkain123, 20 y.o., System Administrator
+- 👀 I’m interested in Bash, Networking, HomaLabing, C# Backend.
 - 🌱 I’m currently learning Neural Networks, Godot.
 - 💞️ I’m looking to collaborate on game projects
 - 📫 Gona reach ponies
