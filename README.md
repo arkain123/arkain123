@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arkain123, 20 y.o., System Administrator
-- 👀 I’m interested in Bash, Networking, HomaLabing, C# Backend.
-- 🌱 I’m currently learning Neural Networks, Godot.
-- 💞️ I’m looking to collaborate on game projects
+- 👀 I’m interested in Bash, Networking, HomaLabing.
+- 💞️ I’m looking to collaborate on various projects
 - 📫 Gona reach ponies
 
 <!---
