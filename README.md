@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arkain123, 20 y.o., System Administrator
+- 👋 Hi, I’m @arkain123, 21 y.o., System Administrator
 - 👀 I’m interested in Bash, Networking, HomaLabing.
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Gona reach ponies
